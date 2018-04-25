@@ -1,17 +1,15 @@
 {
-  "name": "express-example",
+  "name": "name",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cross-env NODE_ENV=development node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cross-env": "^5.1.4",
-    "ejs": "^2.5.7",
-    "express": "^4.16.2"
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
   }
 }
